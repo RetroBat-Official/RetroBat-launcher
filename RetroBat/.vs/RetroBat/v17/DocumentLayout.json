@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BENOIT\\Documents\\GitHub\\RetroBat-launcher\\RetroBat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA30C2F-B494-4E1E-9473-7D0216CF9723}|RetroBat.csproj|c:\\users\\benoit\\documents\\github\\retrobat-launcher\\retrobat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA30C2F-B494-4E1E-9473-7D0216CF9723}|RetroBat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA30C2F-B494-4E1E-9473-7D0216CF9723}|RetroBat.csproj|c:\\users\\benoit\\documents\\github\\retrobat-launcher\\retrobat\\inifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA30C2F-B494-4E1E-9473-7D0216CF9723}|RetroBat.csproj|solutionrelative:inifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IniFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\BENOIT\\Documents\\GitHub\\RetroBat-launcher\\RetroBat\\IniFileReader.cs",
+              "RelativeDocumentMoniker": "IniFileReader.cs",
+              "ToolTip": "C:\\Users\\BENOIT\\Documents\\GitHub\\RetroBat-launcher\\RetroBat\\IniFileReader.cs",
+              "RelativeToolTip": "IniFileReader.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:56:31.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BENOIT\\Documents\\GitHub\\RetroBat-launcher\\RetroBat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BENOIT\\Documents\\GitHub\\RetroBat-launcher\\RetroBat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:18:50.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

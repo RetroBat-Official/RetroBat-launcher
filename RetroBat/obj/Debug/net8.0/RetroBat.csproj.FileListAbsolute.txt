@@ -1,0 +1,15 @@
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\RetroBat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\RetroBat.AssemblyInfoInputs.cache
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\RetroBat.AssemblyInfo.cs
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\RetroBat.csproj.CoreCompileInputs.cache
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\RetroBat.sourcelink.json
+C:\RetroBat7.1\Debug\net8.0\RetroBat.exe
+C:\RetroBat7.1\Debug\net8.0\RetroBat.deps.json
+C:\RetroBat7.1\Debug\net8.0\RetroBat.runtimeconfig.json
+C:\RetroBat7.1\Debug\net8.0\RetroBat.dll
+C:\RetroBat7.1\Debug\net8.0\RetroBat.pdb
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\RetroBat.dll
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\refint\RetroBat.dll
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\RetroBat.pdb
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\RetroBat.genruntimeconfig.cache
+C:\Users\BENOIT\Documents\GitHub\RetroBat-launcher\RetroBat\obj\Debug\net8.0\ref\RetroBat.dll

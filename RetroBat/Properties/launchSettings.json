@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RetroBat": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\RetroBat7.1"
+    }
+  }
+}
